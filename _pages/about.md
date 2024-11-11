@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Tim. I am a final year undergrad in the combined Honours Computer Science and Statistics Program at the University of British Columbia in Vancouver, BC. 
+Hi! I'm Tim. I am a final year undergrad in the combined Honours Computer Science and Statistics Program at the University of British Columbia in Vancouver, BC.
 
 My program is great and all, but I can't seem to recall what kind of snack I was holding in this picture for the life of me, so please let me know if you recognize what it is.
 
