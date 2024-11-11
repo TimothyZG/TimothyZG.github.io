@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Tim (right)</p>;
+    <p>Porteau Cove, BC</p>.
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I'm Tim. I am a final year undergrad in the combined Honours Computer Science and Statistics Program at the University of British Columbia in Vancouver, BC. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My program is great and all, but I can't seem to recall what kind of snack I was holding in this picture for the life of me, so please let me know if you recognize what it is.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+> Piragua, piragua, new block of ice, piragua. -- "In The Heights"
+
+My current research focuses on Uncertainty Quantification in Deep Learning. Specifically, I'm developing robust and practical uncertainty quantification methods that aim to enhance the reliability of machine learning systems in human decision-making processes. Due to a surprising discovery along this path, I'm additionally investigating imbalancedness in pairs of transfer-learned neural networks, and how the scaling law there differ from classical ensembling methods. I am fortunate to have the amazing Professor [Geoff Pleiss](https://geoffpleiss.com/) as supervisor.
+
+Peviously, I worked in UBC SPIN Lab to [give furry robots heartbeats and make them breathe](https://www.cs.ubc.ca/labs/spin/node/579) to study the impact of a person’s haptic interaction with an affective, zoomorphic robot on their cognitive reappraisal success. As the lead on robotics software on the Happraisal Project, I developed real-time softwares that enabled us to control the robot movements in real-time through tetherless communication, and simultaneously collect high-frequency data from a suite of physiological sensors that the human participants wear. I worked closely with [Preeti Vyas](https://www.cs.ubc.ca/~pv/) and [Bereket Guta](https://bguta.github.io/), supervised by Professor [Karon Maclean](https://www.cs.ubc.ca/people/karon-maclean)
