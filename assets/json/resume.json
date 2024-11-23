@@ -1,42 +1,50 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Tim (Tiange) Zhou",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "tim.tiange.zhou@gmail.com",
+    "phone": "(778) 683-7511",
+    "url": "https://timothyzg.github.io/",
+    "Research Interest": "Uncertainty Quantification, Robust Transfer Learning, Computer Vision, Human-AI Intertaction",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "6262 Walter Gage Road",
+      "postalCode": "BC V6T1Z1",
+      "city": "Vancouver",
+      "countryCode": "Canada",
+      "region": "British Columbia"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "BlueSky",
+        "username": "TimZ",
+        "url": "tim-z.bsky.social"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Computer Science Department, University of British Columbia",
+      "position": "Teaching Assistant, CPSC 320: Intermediate Algorithm Design and Analysis",
+      "location": "Vancouver, BC, Canada",
+      "startDate": "2024-09-01",
+      "endDate": "2024-12-20",
+      "summary": "I lead three weekly tutorial sessions for over two hundred students, where I explain lecture concepts in detail, present challenging problem examples, facilitate student discussions, and work through problem solutions and proofs in detail.",
+      "highlights": ["Greedy Algorithm", "Dynamic Programming", "P vs. NP"]
+    },
+    {
+      "name": "Statistics Department, University of British Columbia",
+      "position": "Undergrad Researcher (full-time paid), Machine Learning",
+      "location": "Vancouver, BC, Canada",
+      "startDate": "2024-05-01",
+      "endDate": "2024-08-30",
+      "summary": "I lead the Deep Duo Project, focusing uncertainty quantification and robustness methods for deep learning.",
+      "highlights": ["Computer Vision", "Tansfer Learning", "Uncertainty Quantification"]
     }
   ],
   "volunteer": [
     {
       "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
+      "location": "Vancouver, BC, Canada",
       "position": "Lead Organizer",
       "url": "https://example.com",
       "startDate": "2014-04-01",
@@ -47,15 +55,13 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of British Columbia",
+      "location": "Vancouver, BC, Canada",
+      "url": "https://www.ubc.ca/",
+      "area": "Combined Honours, Computer Science and Statistics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2020-09-01",
+      "endDate": "2025-04-21"
     }
   ],
   "awards": [
@@ -177,14 +183,19 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Geoff Pleiss",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Research Supervisor"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Professor Karon Maclean",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Research Supervisor"
+    },
+    {
+      "name": "Professor Anne Condon",
+      "icon": "fa-solid fa-paper-plane",
+      "reference": "Research Supervisor"
     }
   ],
   "projects": [
