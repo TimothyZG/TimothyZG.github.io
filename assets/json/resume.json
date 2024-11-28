@@ -38,9 +38,27 @@
       "endDate": "2024-08-30",
       "summary": "I lead the Deep Duo Project, focusing uncertainty quantification and robustness methods for deep learning.",
       "highlights": ["Computer Vision", "Tansfer Learning", "Uncertainty Quantification"]
+    },
+    {
+      "name": "Innovation and Technology Lab, Enbridge Inc.",
+      "position": "Data Scientist Co-op",
+      "location": "Calgary, AB, Canada",
+      "startDate": "2022-09-01",
+      "endDate": "2023-04-30",
+      "summary": "I implemented unsupervised models for real-time energy consumption outlier detection and trained transfer-learned convolutional neural networks to identify undesirable objects in aerial imagery of energy pipelines.",
+      "highlights": ["Computer Vision", "Unsupervised Learning", "Applied ML"]
     }
   ],
   "volunteer": [
+    {
+      "organization": "GIRLsmarts4Tech || UBC",
+      "location": "Vancouver, BC, Canada",
+      "position": "Course Developer: Computer Vision",
+      "url": "https://www.cs.ubc.ca/girlsmarts4tech/home",
+      "startDate": "2024-09-01",
+      "endDate": "2025-04-21",
+      "summary": "My team developed an intro workshop for the grade 6-9 girls in Greater Vancouver Area, we're in the refinement & finalization phase and the workshop is expected to be taught in Spring 2025 on UBC Campus:)"
+    },
     {
       "organization": "Women in Computer Science || UBC",
       "location": "Vancouver, BC, Canada",
@@ -90,7 +108,14 @@
     },
     {
       "title": "Dean's Honour List",
-      "date": "2023, 2021",
+      "date": "2023",
+      "awarder": "University of British Columbia",
+      "url": "https://students.ubc.ca/career/ubc-experiences/work-learn-international-undergraduate-research-awards",
+      "summary": "Recognition of academic excellency for full-time undergraduates."
+    },
+    {
+      "title": "Dean's Honour List",
+      "date": "2021",
       "awarder": "University of British Columbia",
       "url": "https://students.ubc.ca/career/ubc-experiences/work-learn-international-undergraduate-research-awards",
       "summary": "Recognition of academic excellency for full-time undergraduates."
@@ -122,17 +147,17 @@
   ],
   "references": [
     {
-      "name": "Professor Geoff Pleiss",
+      "name": "Dr. Geoff Pleiss",
       "icon": "fa-solid fa-laptop",
       "reference": "Research Supervisor"
     },
     {
-      "name": "Professor Karon Maclean",
+      "name": "Dr. Karon Maclean",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Research Supervisor"
     },
     {
-      "name": "Professor Anne Condon",
+      "name": "Dr. Anne Condon",
       "icon": "fa-solid fa-paper-plane",
       "reference": "TA Supervisor"
     }
