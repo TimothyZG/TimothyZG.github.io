@@ -40,6 +40,15 @@
       "highlights": ["Computer Vision", "Tansfer Learning", "Uncertainty Quantification"]
     },
     {
+      "name": "Computer Science Department, University of British Columbia",
+      "position": "Research Assistant, Robotics & HCI",
+      "location": "Vancouver, BC, Canada",
+      "startDate": "2023-09-01",
+      "endDate": "2024-08-30",
+      "summary": "I lead software development in the happraisal project, developing multithreaded tetherless software for real-time robotics control and data gathering, demoed at Eurohaptics 2024, manuscript in construction.",
+      "highlights": ["Human Computer Interaction", "Robotics Software", "Human Experiment Design"]
+    },
+    {
       "name": "Innovation and Technology Lab, Enbridge Inc.",
       "position": "Data Scientist Co-op",
       "location": "Calgary, AB, Canada",
