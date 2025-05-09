@@ -16,18 +16,19 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Tim. I'm a final-year undergraduate student in the combined Honours Computer Science and Statistics program at the University of British Columbia in Vancouver, BC. 
+I recently completed a Combined Honours degree in Computer Science and Statistics at the University of British Columbia (UBC) in Vancouver, BC.
 
-I will be starting as a PhD-track student at UBC Computer Science in Sept 2025, co-supervised by Dr. [Geoff Pleiss](https://geoffpleiss.com/) and Dr. [Evan Shelhamer](http://imaginarynumber.net/research/).
+Starting September 2025, I will be a PhD-track Master’s student in Computer Science at UBC, co-advised by Dr. [Geoff Pleiss](https://geoffpleiss.com/) and Dr. [Evan Shelhamer](http://imaginarynumber.net/research/).
+
+I'm interested in application-driven deep learning research, with a focus on human-centric design, trustworthiness, and robustness.
 
 > Piragua, piragua, new block of ice, piragua. -- "In The Heights"
 
-I am particularly interested in application-driven machine learning research, human-centric design, and computational efficiency.
-My undergrad honours thesis focuses on uncertainty quantification in deep learning, developing robust and practical methods to improve the reliability of machine learning systems in high-risk applications. 
-I am especially excited about applying these methods to biodiversity-related research and applications.
+My undergraduate honours thesis focused on uncertainty quantification in deep learning, where I developed computationally efficient methods to improve ML systems' predictive uncertanties in high-risk applications.
 
-Peviously, I was a research assistant in UBC SPIN Lab to [give furry robots heartbeats and make them breathe](https://www.cs.ubc.ca/labs/spin/node/579). 
-This project, called Happraisal, examined the impact of a person's haptic interaction with an affective, zoomorphic robot on their ability to cognitively reappraise their emotions. 
-As the lead developer for the robotics software, I developed real-time systems that enabled tetherless robot control and synchronized high-frequency physiological data collection from participants. I worked closely with [Preeti Vyas](https://www.cs.ubc.ca/~pv/) and [Bereket Guta](https://bguta.github.io/), supervised by Professor [Karon Maclean](https://www.cs.ubc.ca/people/karon-maclean).
+Peviously, I was a research assistant in UBC SPIN Lab, where I [gave furry robots heartbeats and made them breathe](https://www.cs.ubc.ca/labs/spin/node/579). 
+There I worked closely with [Preeti Vyas](https://www.cs.ubc.ca/~pv/) and [Bereket Guta](https://bguta.github.io/), supervised by Dr. [Karon Maclean](https://www.cs.ubc.ca/people/karon-maclean).
+<!-- This project, called Happraisal, examined the impact of a person's haptic interaction with an affective, zoomorphic robot on their ability to cognitively reappraise their emotions. 
+As the lead developer for the robotics software, I developed real-time systems that enabled tetherless robot control and synchronized high-frequency physiological data collection from participants.  -->
 
 Outside of research, I am an enthusiastic, albeit mediocre, bird watcher, and am known to perform with UBC Acappella's [Choral Reef](https://www.youtube.com/watch?v=B7zL4NDV990).
