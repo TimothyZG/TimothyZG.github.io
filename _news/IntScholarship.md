@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received UBC's  International Student Scholarship ($9000).
+I received UBC's International Student Scholarship ($9000).

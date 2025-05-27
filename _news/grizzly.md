@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I saw a baby grizzly🐻 in Pemberton, BC! On a slightly less exciting note, I also started this website.
+I saw a baby grizzly🐻 in Pemberton, BC! On a slightly less exciting note, I started this website.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I had to take an English Proficiency Exam for grad school application, something I haven't done in 6 years. Happy to share that I received 160/160 on my Duolingo🦉 English Test.
+I had to take an English Proficiency Exam for grad school application. Happy to share that I received 160/160 on my Duolingo🦉 English Test.

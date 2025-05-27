@@ -24,11 +24,9 @@ I'm interested in application-driven deep learning research, with a focus on hum
 
 > Piragua, piragua, new block of ice, piragua. -- "In The Heights"
 
-My undergraduate honours thesis focused on uncertainty quantification in deep learning, where I developed computationally efficient methods to improve ML systems' predictive uncertanties in high-risk applications.
+My undergraduate honours thesis focused on uncertainty quantification in deep learning, where I developed [Asymmetric Duos](https://arxiv.org/abs/2505.18636), a computationally efficient method to improve ML systems' predictive uncertanties in high-risk applications.
 
 Peviously, I was a research assistant in UBC SPIN Lab, where I [gave furry robots heartbeats and made them breathe](https://www.cs.ubc.ca/labs/spin/node/579). 
 There I worked closely with [Preeti Vyas](https://www.cs.ubc.ca/~pv/) and [Bereket Guta](https://bguta.github.io/), supervised by Dr. [Karon Maclean](https://www.cs.ubc.ca/people/karon-maclean).
-<!-- This project, called Happraisal, examined the impact of a person's haptic interaction with an affective, zoomorphic robot on their ability to cognitively reappraise their emotions. 
-As the lead developer for the robotics software, I developed real-time systems that enabled tetherless robot control and synchronized high-frequency physiological data collection from participants.  -->
 
 Outside of research, I am an enthusiastic, albeit mediocre, bird watcher, and am known to perform with UBC Acappella's [Choral Reef](https://www.youtube.com/watch?v=B7zL4NDV990).
